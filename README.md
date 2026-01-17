@@ -5,12 +5,13 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+Welcome to **Awesome-Cross-Domain-Re-Identification-Zoo**!
 
-Welcome to **Awesome-Cross-Domain-Re-Identification**!
+This repository is a community-driven collection of resources for **Cross-Domain Re-Identification (ReID)**, aiming to systematically summarize ReID tasks under diverse domain gaps. In this “zoo”, *cross-domain* is interpreted broadly to include settings where models transfer across **capture platforms and viewpoints**, **modalities and spectral bands**, **datasets and distribution shifts**, **environmental conditions**, and **attribute changes**, together with other emerging cross-domain ReID scenarios.
 
-This repository is a community-driven collection of resources for **Cross-Domain Person Re-Identification (ReID)** — broadly covering *all* ReID settings where models must transfer across **domains, viewpoints or modalities**. We aim to keep everything **organized, up-to-date and easy to navigate**, so researchers and practitioners can quickly find what matters for their specific cross-domain scenario.
+At a fundamental level, these cross-domain ReID problems share a common objective, namely how to **align target features across domains**. By organizing these settings and their representative works within a unified repository, we hope to facilitate deeper discussion on the **core nature of cross-domain ReID**, its **principal challenges**, and the **design principles** that effectively address domain misalignment.
 
-Here you’ll find **papers, datasets, benchmarks, methods and open-source implementations**, with brief notes when helpful. Contributions are always welcome — feel free to open an issue or submit a PR to add new work, fix links or improve categorization!
+Here you will find curated **papers, datasets, benchmarks, methods, and open-source implementations**, accompanied by brief notes when helpful. We welcome any contributions that help advance cross-domain ReID, such as adding new papers or datasets, updating benchmarks, fixing broken links, refining the taxonomy, or improving the overall coverage and readability of this repository.
 
 > 📩 Feel free to open an issue / PR to add papers, code or datasets.
 
