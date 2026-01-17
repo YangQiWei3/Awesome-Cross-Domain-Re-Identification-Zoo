@@ -247,6 +247,18 @@ If you find our work or this repository useful in your research, please consider
   year={2025}
 }
 
+@INPROCEEDINGS{10889915,
+  author={Yu, Chenyang and Liu, Xuehu and Dai, Ju and Zhang, Pingping and Lu, Huchuan},
+  booktitle={ICASSP 2025 - 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
+  title={Hierarchical Proxy Learning for Cloth-Changing Person Re-Identification}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Training;Multiprotocol label switching;Clothing;Semantics;Signal processing;Feature extraction;Acoustics;Speech processing;Identification of persons;cloth-changing person re-identification;hierarchical proxy learning;sample balance;joint training},
+  doi={10.1109/ICASSP49660.2025.10889915}}
+
+
 @misc{awesome_agpreid,
   title        = {Awesome Aerial-Ground Object Re-Identification},
   author       = {Yang, Qiwei, Zhang, Pingping and Gong, Zijing},
