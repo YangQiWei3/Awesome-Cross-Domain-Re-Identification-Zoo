@@ -66,10 +66,10 @@ Automatic statistics based on the papers listed in this repository.
 # 📝 Papers & Methods
 
 ## 📚1 Platform and Viewpoint Gap
-> **Platform and Viewpoint Gap** focuses on ReID scenarios in which the domain shift primarily arises from differences in capture platforms and viewpoints. Representative examples include **aerial ↔ ground** matching, high-angle ↔ eye-level viewpoints, long-range ↔ close-range imagery, and cross-camera view changes. Compared with conventional ReID, these settings typically exhibit more pronounced variations in **scale, perspective, occlusion, and background context**, thereby posing a greater challenge for learning representations that generalize across **cross-view** and **cross-platform** distributions.
+> This section reviews cross-domain ReID settings where domain discrepancy is dominated by changes in **capture platform** and **viewpoint**. It emphasizes three core challenges: **extreme scale variation**, **perspective mismatch**, and **occlusion shift**. We summarize representative benchmarks and methods that enable robust **cross-view** and **cross-platform** feature alignment.
 
 ### 📚1.1 Aerial ↔ Ground ReID
-> Aerial ↔ Ground ReID targets person or vehicle re-identification across aerial and ground imaging platforms, where the source and target domains differ substantially in viewpoint geometry and sensing conditions. This setting is characterized by large changes in scale, perspective distortion, and background clutter, and may further involve severe occlusion and limited visual detail due to long-range capture. As a result, effective methods are expected to learn representations that remain discriminative under cross-platform and cross-view distribution shifts, enabling robust matching between UAV-based observations and ground-level camera data.
+> This subsection focuses on identity matching between **aerial** and **ground** cameras. The key difficulties arise from **large viewpoint disparity**, **severe resolution gaps**, and **weak fine-grained identity cues**, motivating **view-invariant** representation learning.
 
 #### 📝1.1.1 Image-based AG-ReID
 
@@ -149,7 +149,7 @@ Automatic statistics based on the papers listed in this repository.
 ---
 
 ## 📚2 Modality and Spectrum Gap
-> .
+> This section covers ReID scenarios driven by differences in **sensing modality** or **spectral band**. It centers on three challenges: **appearance formation discrepancy**, **weakly shared semantics**, and **cross-modal alignment difficulty**, and organizes approaches for learning **modality-invariant** identity representations.
 
 ### 📚2.1 Visible ↔ Infrared ↔ Thermal ReID
 > .
