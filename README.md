@@ -7,7 +7,9 @@
 
 
 Welcome to **Awesome-Cross-Domain-Re-Identification**!
+
 This repository is a community-driven collection of resources for **Cross-Domain Person Re-Identification (ReID)** — broadly covering *all* ReID settings where models must transfer across **domains, viewpoints or modalities**. We aim to keep everything **organized, up-to-date and easy to navigate**, so researchers and practitioners can quickly find what matters for their specific cross-domain scenario.
+
 Here you’ll find **papers, datasets, benchmarks, methods and open-source implementations**, with brief notes when helpful. Contributions are always welcome — feel free to open an issue or submit a PR to add new work, fix links or improve categorization!
 
 > 📩 Feel free to open an issue / PR to add papers, code or datasets.
